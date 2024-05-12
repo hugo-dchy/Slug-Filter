@@ -1,6 +1,0 @@
-services:
- slugFilter.twig_extensions:
-    class: Drupal\slugFilter\HelperTwigExtensions
-    tags:
-      - { name: twig.extension }
-

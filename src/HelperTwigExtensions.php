@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\slugFilter;
+namespace Drupal\slug_filter;
 
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFilter;
